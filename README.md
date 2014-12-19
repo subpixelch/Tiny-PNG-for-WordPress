@@ -1,12 +1,13 @@
-#Tiny PNG for WordPress
+#Tiny PNG/JPEG for WordPress
 ---------------------------
 
-Tiny PNG for WordPress is a plugin that automatically runs any PNGs uploaded to the WordPress admin interface through the Tiny PNG service for large image compression rates (up to 70%!). This plugin will drastically reduce your page load times.
+Tiny PNG/JPEG for WordPress is a plugin that automatically runs any PNGs and JPEGs uploaded to the WordPress admin interface through the Tiny PNG/JPEG service for large image compression rates (up to 70%!). This plugin will drastically reduce your page load times.
 
-##Tiny PNG Website
+##Tiny PNG/JPEG Website
 --------------------------
 
 https://tinypng.com
+https://tinyjpg.com
 
 ##Installation
 --------------------------
@@ -17,7 +18,7 @@ This plugin is a "set up and leave it" plugin that only requires a small amount 
 -------------------------
 
 After you've installed the plugin, you still have a bit of setup. First, you'll have to visit https://tinypng.com/developers and sign up for an API key using your full name and email. There is a free API key that offers 500 conversions per month. Once you've signed up for an API key, you'll need to find it and copy it to your clipboard.
-After you've got the API key copied to your clipboard, simply log in to your WordPress admin panel, hover over "Settings" on the left hand side, and click "Tiny PNG for WordPress". On the next page, you'll see a field where you can insert your API key. Simply place it in there and click the update button to save it.
+After you've got the API key copied to your clipboard, simply log in to your WordPress admin panel, hover over "Settings" on the left hand side, and click "Tiny PNG/JPEG for WordPress". On the next page, you'll see a field where you can insert your API key. Simply place it in there and click the update button to save it.
 
 ##Running the plugin
 ------------------------
